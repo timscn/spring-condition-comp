@@ -1,0 +1,20 @@
+[INFO ] 2017-09-14 14:22:40.739 [main] MainTest - @BeforeAll - executes once before all test methods in this class
+[INFO ] 2017-09-14 14:22:40.759 [main] MainTest - @BeforeEach - executes before each test method in this class
+[INFO ] 2017-09-14 14:22:40.761 [main] FirstTest - testMe
+[INFO ] 2017-09-14 14:22:40.777 [main] MainTest - @AfterEach - executed after each test method.
+[INFO ] 2017-09-14 14:22:40.782 [main] MainTest - @AfterAll - executed after all test methods.
+[INFO ] 2017-09-14 14:23:44.360 [main] MainTest - @BeforeAll - executes once before all test methods in this class
+[INFO ] 2017-09-14 14:23:44.369 [main] MainTest - @BeforeEach - executes before each test method in this class
+[INFO ] 2017-09-14 14:23:44.370 [main] FirstTest - testMe
+[INFO ] 2017-09-14 14:23:44.376 [main] MainTest - @AfterEach - executed after each test method.
+[INFO ] 2017-09-14 14:23:44.380 [main] MainTest - @AfterAll - executed after all test methods.
+[INFO ] 2017-09-14 14:25:18.974 [main] MainTest - @BeforeAll - executes once before all test methods in this class
+[INFO ] 2017-09-14 14:25:18.991 [main] MainTest - @BeforeEach - executes before each test method in this class
+[INFO ] 2017-09-14 14:25:18.992 [main] FirstTest - testMe
+[INFO ] 2017-09-14 14:25:19.003 [main] MainTest - @AfterEach - executed after each test method.
+[INFO ] 2017-09-14 14:25:19.011 [main] MainTest - @AfterAll - executed after all test methods.
+[INFO ] 2017-09-14 14:26:12.537 [main] MainTest - @BeforeAll - executes once before all test methods in this class
+[INFO ] 2017-09-14 14:26:12.546 [main] MainTest - @BeforeEach - executes before each test method in this class
+[INFO ] 2017-09-14 14:26:12.553 [main] FirstTest - testMe
+[INFO ] 2017-09-14 14:26:12.564 [main] MainTest - @AfterEach - executed after each test method.
+[INFO ] 2017-09-14 14:26:12.570 [main] MainTest - @AfterAll - executed after all test methods.
