@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class ServiceController {
     @RequestMapping(value = "/hello", method = RequestMethod.GET)
     public ResponseEntity<String> get() {
-        String output = "Hey Viktor from ServiceController ";
+        String output = "Hey team";
         log.info(output);
         return new ResponseEntity<>(output, HttpStatus.OK);
     }

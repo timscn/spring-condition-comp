@@ -11,15 +11,15 @@ import org.springframework.context.annotation.Configuration;
 public class Config {
 
     @Bean(name = "process")
-    @Conditional(WindowsCondition.class)
+    @Conditional(MacOsCondition.class)
     public Process A() {
-        return new A();
+        return new MacOsCondition();
     }
 
     @Bean(name = "process")
     @Conditional(LinuxCondition.class)
     public Process B() {
-        return new B();
+        return new LinuxCondition();
     }
 
     @Bean
